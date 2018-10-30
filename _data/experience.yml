@@ -1,19 +1,19 @@
-# Jobs
-# Shoptocat
-- company: GitHub, Inc.
-  position: Shoptocat
-  duration: March, 2013 &mdash; Present
-  summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
+# Intern
+- company: Pinterest
+  position: Intern - Software Engineer
+  duration:  May, 2018  &mdash; August, 2018
+  summary: Worked on data storage and caching team under Infrustructure team
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
-
-
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  October 2016 &mdash; Present
-  summary: Provide amazing support to customers on the GitHub for Business platform
+- company: World Travel Holdings
+  position: Software Engineer
+  duration: March, 2016 &mdash; June, 2017
+  summary: 	
+• Designed REST APIs (Spring Boot) consumed by two teams (same function but different expectation), tested APIs using Postman and performed unit test using MockMVC
+•	Migrated logic from Vixen to pricing service to follow SOA patterns, decoupled the code and reduced the downtime from minutes to seconds. Modified logging policy from size-oriented to time-oriented which helped decrease log file size and saved half of the time locating issues in the log file
+•	Created ETL jobs using Pentaho (Data Integration Tool) to pull vendors’ pricing files (hundreds of thousands of records) from FTP Server, transformed to specific format and persist converted data into Oracle database, delivered and verified with production team
+•	Generated web crawler to grasp competitor’s pricing files from websites (pricing for 7 cruise lines around 10GB which takes around 3 hrs.), saved data on AWS S3, leveraged AWS EMR for data processing (takes around 10 mins) and published reports using Pipeline
+•	Refactored old endpoints, migrated from JDBC Template to Spring Data JPA, added delegate/ repository layer and moved codes from controller layer to delegate layer
+•	Involved in research task (invoice format change and RateOptionCode change, both of them only affect specific cruise lines) in Vixen, reported research result to the team and implemented upgrading in Vixen
+•	Collaborated with QA, DEV and RE team to fix bugs in QA and production environments
+•	Followed Agile Software Development methodology (Scrum), participated in the whole software development life cycle
