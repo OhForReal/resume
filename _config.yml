@@ -1,6 +1,6 @@
 # Site settings
-title: "Mr Awesome's resume"
-description: "Beautiful."
+title: "Jason Resume Template"
+description: "This is Amazing."
 
 # Build settings
 markdown: kramdown
