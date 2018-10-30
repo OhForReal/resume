@@ -9,11 +9,11 @@
 - company: World Travel Holdings
   position: Software Engineer
   duration: March, 2016 &mdash; June, 2017
-  summary: 	• Designed REST APIs (Spring Boot) consumed by two teams (same function but different expectation), tested APIs using Postman and performed unit test using MockMVC&#10;
-            •	Migrated logic from Vixen to pricing service to follow SOA patterns, decoupled the code and reduced the downtime from minutes to seconds. Modified logging policy from size-oriented to time-oriented which helped decrease log file size and saved half of the time locating issues in the log file&#10;
-            •	Created ETL jobs using Pentaho (Data Integration Tool) to pull vendors’ pricing files (hundreds of thousands of records) from FTP Server, transformed to specific format and persist converted data into Oracle database, delivered and verified with production team&#10;
-            •	Generated web crawler to grasp competitor’s pricing files from websites (pricing for 7 cruise lines around 10GB which takes around 3 hrs.), saved data on AWS S3, leveraged AWS EMR for data processing (takes around 10 mins) and published reports using Pipeline&#10;
-            •	Refactored old endpoints, migrated from JDBC Template to Spring Data JPA, added delegate/ repository layer and moved codes from controller layer to delegate layer&#10;
-            •	Involved in research task (invoice format change and RateOptionCode change, both of them only affect specific cruise lines) in Vixen, reported research result to the team and implemented upgrading in Vixen
-            •	Collaborated with QA, DEV and RE team to fix bugs in QA and production environments&#10;
-            •	Followed Agile Software Development methodology (Scrum), participated in the whole software development life cycle&#10;
+  summary: 	• Designed REST APIs (Spring Boot) consumed by two teams (same function but different expectation), tested APIs using Postman and performed unit test using MockMVC&#10;&#13;
+            •	Migrated logic from Vixen to pricing service to follow SOA patterns, decoupled the code and reduced the downtime from minutes to seconds. Modified logging policy from size-oriented to time-oriented which helped decrease log file size and saved half of the time locating issues in the log file&#10;&#13;
+            •	Created ETL jobs using Pentaho (Data Integration Tool) to pull vendors’ pricing files (hundreds of thousands of records) from FTP Server, transformed to specific format and persist converted data into Oracle database, delivered and verified with production team&#10;&#13;
+            •	Generated web crawler to grasp competitor’s pricing files from websites (pricing for 7 cruise lines around 10GB which takes around 3 hrs.), saved data on AWS S3, leveraged AWS EMR for data processing (takes around 10 mins) and published reports using Pipeline&#10;&#13;
+            •	Refactored old endpoints, migrated from JDBC Template to Spring Data JPA, added delegate/ repository layer and moved codes from controller layer to delegate layer&#10;&#13;
+            •	Involved in research task (invoice format change and RateOptionCode change, both of them only affect specific cruise lines) in Vixen, reported research result to the team and implemented upgrading in Vixen&#10;&#13;
+            •	Collaborated with QA, DEV and RE team to fix bugs in QA and production environments&#10;&#13;
+            •	Followed Agile Software Development methodology (Scrum), participated in the whole software development life cycle&#10;&#13;
